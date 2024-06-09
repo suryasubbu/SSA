@@ -21,12 +21,14 @@
 4) Provide YouTube Links (if applicable)
 
   If you are using a YouTube link, create a CSV file separated by commas with the following format:
-  link,start_time
+  **link,start_time**
   Here, start_time refers to the target speaker's speech starting time in the YouTube video. Make sure to change the speaker name accordingly.
 
 Run the Main Script
 
 Execute the main script:
 
-```bash
-python Main.py
+1) ```bash
+   python Main.py
+
+
