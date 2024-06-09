@@ -2,17 +2,17 @@
   The Sentence Splitter Algorithm (SSA) is designed to split audio into required duration chunks. It leverages several modules, including YouTube Downloader, Speaker Diarization, Automatic Speech Recognition, Timestamp Prediction, and Noise Checker.
 
 ### Modules
-  YouTube Downloader: Downloads audio from YouTube videos.
-  Speaker Diarization: Identifies and separates different speakers in the audio.
-  Automatic Speech Recognition: Converts speech to text.
-  Timestamp Prediction: Predicts timestamps for splitting the audio.
-  Noise Checker: Checks and handles noise in the audio.
-  Repository Structure
-  SSA.py: Contains all the functions.
-  config.py: Holds all the configuration variables.
-  Main.py: Executes the functions.
-  Steps for Initiation
-  Clone the Repository
+  1) YouTube Downloader: Downloads audio from YouTube videos.
+  2) Speaker Diarization: Identifies and separates different speakers in the audio.
+  3) Automatic Speech Recognition: Converts speech to text.
+  4) Timestamp Prediction: Predicts timestamps for splitting the audio.
+  5) Noise Checker: Checks and handles noise in the audio.
+### Repository Structure
+  1) SSA.py: Contains all the functions.
+  2) config.py: Holds all the configuration variables.
+  3) Main.py: Executes the functions.
+### Steps for Initiation
+  Clone the Repository and install the requirements
 
 
 1) Change the speaker name in config.speaker_name.
