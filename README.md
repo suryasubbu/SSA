@@ -29,6 +29,10 @@ Run the Main Script
 Execute the main script:
 
 1) ```bash
+   git clone https://github.com/suryasubbu/SSA
+   cd SSA/
+   pip install -r requirements.txt
+2) ```bash
    python Main.py
 
 
