@@ -1,0 +1,8 @@
+pydub
+yt-dlp
+pandas
+numpy
+whisper
+stable-whisper
+requests
+librosa
