@@ -34,6 +34,3 @@ Execute the main script:
    pip install -r requirements.txt
 2) ```bash
    python Main.py
-
-
-
